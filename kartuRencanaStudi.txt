@@ -1,0 +1,12 @@
+
+Nama : Najwa Afifah
+NIM : 235150601111002
+Jurusan : PTI
+Angkatan : 23
+Semester : 2
+IPK : 4.0
+Pilihan Matkul : 
+Matkul ke-1: SOK
+Matkul ke-2: PBO
+Matkul ke-3: Pancasila
+Matkul ke-4: MKBS
