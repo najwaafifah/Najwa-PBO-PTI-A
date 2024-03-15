@@ -11,7 +11,8 @@ Class Diagram yang dibuat :
 1. Class Diagram 1 Petugas
 2. Class Diagram 2 Anggota
 3. Class Diagram 3 Buku
-dst
+
+
 
 ## 🔗 Link Penjelasan Tugas
 
