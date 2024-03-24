@@ -1,4 +1,4 @@
-
+package Modul2;
 
 public class Student {
     private String nama;
@@ -9,7 +9,7 @@ public class Student {
     private double scienceGrade;
     private double everage;
 
-    public Student() {
+    public void student() {
         nama = "wawa";
         address = "zxc";
         age = 0;
@@ -19,6 +19,16 @@ public class Student {
         nama = n;
         address = a;
         age = ag;
+       
+    }
+
+    public Student(int id, String n, String a, int ag, double mathGrade, double englishGrade, double scienceGrade) {
+        nama = n;
+        address = a;
+        age = ag;
+        this.mathGrade = mathGrade;
+        this.scienceGrade = scienceGrade;
+        this.englishGrade = englishGrade;
     }
 
     public void setNama (String n) {
@@ -45,9 +55,13 @@ public class Student {
         scienceGrade = science;
     }
 
+    private boolean statusAkhir() {
+        return everage >= 61;
+    }
+
     private double getAverage () {
         double result = 0;
-        result = (mathGrade + scienceGrade + englishGrade/3);
+        result = (mathGrade + scienceGrade + englishGrade / 3);
         return result;
     }
 
@@ -56,5 +70,9 @@ public class Student {
         System.out.println("Beralamat di " + address);
         System.out.println("berumur " + age);
         System.out.println("mempunyai nilai rata rata " + getAverage());
+    }
+
+    public void jumlahObjek() {
+        throw new UnsupportedOperationException("Unimplemented method 'jumlahObjek'");
     }
 }

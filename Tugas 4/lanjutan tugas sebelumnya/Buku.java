@@ -41,7 +41,6 @@ public class Buku {
         }
 
         public void setStatusPinjam(boolean statusPinjam2) {
-            // TODO Auto-generated method stub
             throw new UnsupportedOperationException("Unimplemented method 'setStatusPinjam'");
         }
 

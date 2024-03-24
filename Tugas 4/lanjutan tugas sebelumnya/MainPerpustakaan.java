@@ -37,6 +37,24 @@ public class MainPerpustakaan {
         petugas.verifikasiPeminjaman(anggota, buku);
         anggota.tampilkanBukuDipinjam(buku);
 
+        Anggota anggota1 = new Anggota("irul", 1001);
+        System.out.println("Objek Anggota 1 : ");
+        System.out.println("Nama : " + anggota1.getNamaAnggota());
+        System.out.println("ID : " + anggota1.getIdAnggota());
+        System.out.println();
+
+        Anggota anggota2 = new Anggota("yati", 1002, "dilan", "dilan susanto", "45846-7675-87695-98");
+        System.out.println("Objek Anggota 2 : " + anggota2.getNamaAnggota());
+        System.out.println("ID : " + anggota2.getIdAnggota());
+        anggota2.tampilkanBukuDipinjam(buku);
+        System.out.println();
+
+        Buku buku2 = new Buku("the da vinci code", "dan brown", "65-794759-79576");
+        Anggota anggota3 = new Anggota("michael", 1003, buku);
+        System.out.println("objek anggota 3 : ");
+        System.out.println("Nama : " + anggota3.getNamaAnggota());
+        System.out.println("ID : " + anggota3.getIdAnggota());
+        anggota3.tampilkanBukuDipinjam(buku);
     }
 }
 

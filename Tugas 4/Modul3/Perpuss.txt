@@ -1,0 +1,98 @@
+ID buku : 0
+Nama Buku: Data Structures and Algorithms
+Penulis 1: Michael T. Goodrich
+Penulis 2: Roberto T.
+Tahun: 2007
+Sinopsis: Explore the world of algorithms and data structures in this comprehensive guide.
+
+ID buku : 1
+Nama Buku: Data Structures and Algorithms
+Penulis 1: Priyanto H.
+Penulis 2: -
+Tahun: 2015
+Sinopsis: Learn the fundamentals of web programming and design with this practical book.
+
+ID buku : 2
+Nama Buku: Sejarah Dunia yang Disembunyikan
+Penulis 1: Jonathan Black
+Penulis 2: -
+Tahun: 2010
+Sinopsis: Uncover hidden stories from the history of the world in this thought-provoking exploration.
+
+ID buku : 3
+Nama Buku: Filsafat Pancasila
+Penulis 1: Haelan
+Penulis 2: -
+Tahun: 2020
+Sinopsis: Delve into the philosophical principles of Pancasila in this insightful book.
+
+ID buku : 4
+Nama Buku: 10 Dosa Besar Soeharto
+Penulis 1: Wimanjaya K.
+Penulis 2: -
+Tahun: 1990
+Sinopsis: Examine the ten major mistakes of Soeharto's era in this historical account.
+
+ID buku : 5
+Nama Buku: Sejarah Indonesia
+Penulis 1: Kemdikbud
+Penulis 2: -
+Tahun: 2020
+Sinopsis: Discover the rich history of Indonesia from ancient times to the present day.
+
+ID buku : 6
+Nama Buku: Hadis Nabi
+Penulis 1: Muhammad Ajaj Al-Khatib
+Penulis 2: -
+Tahun: 2003
+Sinopsis: Explore the sayings and actions of Prophet Muhammad in this comprehensive collection of hadith.
+
+ID buku : 7
+Nama Buku: Dasar Dasar Pendidikan Agama Islam
+Penulis 1: Maman
+Penulis 2: -
+Tahun: 2007
+Sinopsis: Understand the fundamental principles of Islamic education in this insightful book.
+
+ID buku : 8
+Nama Buku: Psikologi Kepribadian
+Penulis 1: Lynn Wileox
+Penulis 2: -
+Tahun: 2005
+Sinopsis: Explore the intricacies of personality psychology in this engaging and informative book.
+
+ID buku : 9
+Nama Buku: Teori Belajar dan Pembelajaran
+Penulis 1: Nurlina
+Penulis 2: -
+Tahun: 2015
+Sinopsis: Understand various learning theories and their applications in education with this essential guide.
+
+ID buku : 10
+Nama Buku: Dasar Dasar Ilmu Politik
+Penulis 1: Miriam B.
+Penulis 2: -
+Tahun: 2010
+Sinopsis: Gain a foundational understanding of political science and its key concepts in this enlightening book.
+
+ID buku : 11
+Nama Buku: Politik dan Kekuasaan
+Penulis 1: Ibnu Qutaibah
+Penulis 2: -
+Tahun: 2014
+Sinopsis: Explore the dynamics of politics and power in this insightful examination of political systems.
+
+ID buku : 12
+Nama Buku: Hujan
+Penulis 1: Tere Liye
+Penulis 2: -
+Tahun: 2018
+Sinopsis: Immerse yourself in a captivating fiction story filled with emotion, drama, and unexpected twists.
+
+ID buku : 13
+Nama Buku: Laskar Pelangi
+Penulis 1: Andrea Hirata
+Penulis 2: -
+Tahun: 2005
+Sinopsis: Experience the inspiring journey of a group of students in a small Indonesian village in this heartwarming novel.
+

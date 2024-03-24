@@ -10,7 +10,23 @@ public class Petugas {
         this.idPetugas = idPetugas;
         this.levelAkses = levelAkses;
     }
-    
+    //tambahan
+    public void tambahBuku(Buku buku) {
+        System.out.println("Informasi buku :");
+        buku.cetakInfoBuku();
+        System.out.println("Buku berhasil ditambahkan");
+    }
+
+    public void tambahBuku(String judul, String pengarang, String isbn) {
+        Buku buku = new Buku(judul, pengarang, isbn);
+        tambahBuku(buku);
+    }
+
+    public void tambahBuku(String judul, String pengarang, String isbn, boolean statusPinjam) {
+        Buku buku = new Buku(judul, pengarang, isbn);
+        buku.setStatusPinjam(statusPinjam);
+        tambahBuku(buku);
+    }
     public void hapusBuku(Buku buku) {
         // Implementasi penghapusan buku
     }
@@ -31,10 +47,6 @@ public class Petugas {
         } else {
             System.out.println("Input tidak sesuai, batal peminjaman");
         }
-    }
-
-    public void tambahBuku(Buku buku) {
-        throw new UnsupportedOperationException("Unimplemented method 'tambahBuku'");
     }
 
 }

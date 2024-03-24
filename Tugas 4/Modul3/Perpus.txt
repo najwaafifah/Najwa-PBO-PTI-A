@@ -1,0 +1,28 @@
+ID buku: 0
+Nama Buku: Data Structures and Algorithms
+Penulis 1: Michael T. Goodrich
+Penulis 2: Roberto T.
+Tahun: 2007
+Sinopsis: Explore the world of algorithms and data structures in this comprehensive guide.
+
+ID buku: 1
+Nama Buku: Data Structures and Algorithms
+Penulis 1: Priyanto H.
+Penulis 2: -
+Tahun: 2015
+Sinopsis: Learn the fundamentals of web programming and design with this practical book.
+
+ID buku: 2
+Nama Buku: Sejarah Dunia yang Disembunyikan
+Penulis 1: Jonathan Black
+Penulis 2: -
+Tahun: 2010
+Sinopsis: Uncover hidden stories from the history of the world in this thought-provoking exploration.
+
+ID buku: 3
+Nama Buku: Filsafat Pancasila
+Penulis 1: Haelan
+Penulis 2: -
+Tahun: 2020
+Sinopsis: Delve into the philosophical principles of Pancasila in this insightful book.
+

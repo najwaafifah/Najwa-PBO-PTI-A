@@ -3,17 +3,21 @@ public class Anggota {
     private int idAnggota;
     private Buku bukuDipinjam;
 
-    public Anggota(String namaAnggota, int idAnggota, Buku buku) {
+    public Anggota(String namaAnggota, int idAnggota) {
         this.namaAnggota = namaAnggota;
         this.idAnggota = idAnggota;
     }
 
-    public Anggota(String string, int i, String string2, String string3, String string4) {
-        //TODO Auto-generated constructor stub
+    public Anggota(String namaAnggota, int idAnggota, Buku bukuDipinjam) {
+        this.namaAnggota = namaAnggota;
+        this.idAnggota = idAnggota;
+        this.bukuDipinjam = bukuDipinjam;
     }
 
-    public Anggota(String string, int i) {
-        //TODO Auto-generated constructor stub
+    public Anggota(String namaAnggota, int idAnggota, String judulBuku, String pengarang, String isbn) {
+        this.namaAnggota = namaAnggota;
+        this.idAnggota = idAnggota;
+        this.bukuDipinjam = new Buku(judulBuku, pengarang, isbn);
     }
 
     public void pinjamBuku(Buku buku) {
